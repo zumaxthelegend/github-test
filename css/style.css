@@ -3409,6 +3409,10 @@ header {
   top: 14px;
 }
 
+.icons-line .ico img {
+  margin-bottom: 10px;
+}
+
 .icons-line .ico .ico-text {
   font-weight: 500;
   font-size: 0.75em;
